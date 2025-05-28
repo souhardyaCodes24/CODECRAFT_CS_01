@@ -1,6 +1,6 @@
 # 🎨 Caesar Cipher GUI 🛡️
 
-![GUI Screenshot](assets/gui_screenshot.jpg)
+![GUI Screenshot](gui.png)
 
 ## 🇬🇧 What Is This?
 A charming Python desktop app built with **Tkinter**, bringing the classic **Caesar Cipher** to life! Shift your letters forward or backward with a bespoke key and watch your message transform in real time. 🕰️🔐
