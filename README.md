@@ -2,7 +2,7 @@
 
 ![GUI Screenshot](gui.png)
 
-## 🇬🇧 What Is This?
+## What Is This?
 A charming Python desktop app built with **Tkinter**, bringing the classic **Caesar Cipher** to life! Shift your letters forward or backward with a bespoke key and watch your message transform in real time. 🕰️🔐
 
 ## 🚀 How It Works
@@ -21,3 +21,7 @@ A charming Python desktop app built with **Tkinter**, bringing the classic **Cae
 git clone https://github.com/yourusername/caesar-cipher-gui.git
 cd caesar-cipher-gui
 pip install -r requirements.txt   # Tkinter is bundled with most Python installs
+```
+
+> Crafted with ❤️ , powered by Python & Tkinter!
+
